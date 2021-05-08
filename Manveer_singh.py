@@ -1,4 +1,4 @@
-Group work by Manveer singh and pahuljot singh
+#Group work by Manveer_singh and pahuljot singh
 def main():
     #inputs for users
     name = input('What is your name? ')
